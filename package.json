@@ -18,10 +18,10 @@
     "lint": "eslint 'component/**/*' 'pages/**/*' 'payload/**/*' '*.ts' --fix",
     "typedoc": "typedoc --excludeExternals"
   },
-  "homepage": "https://brocoly1991.github.io/resume-nextjs",
+  "homepage": "https://brocoly1991.github.io/brocoly1991",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uyu423/resume-nextjs.git"
+    "url": "git+https://github.com/brocoly1991/resume-nextjs.git"
   },
   "keywords": [
     "resume",
