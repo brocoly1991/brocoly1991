@@ -18,7 +18,7 @@
     "lint": "eslint 'component/**/*' 'pages/**/*' 'payload/**/*' '*.ts' --fix",
     "typedoc": "typedoc --excludeExternals"
   },
-  "homepage": "https://brocoly1991.github.io/brocoly1991",
+  "homepage": "https://uyu423.github.io/resume-nextjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brocoly1991/resume-nextjs.git"
