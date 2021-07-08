@@ -25,7 +25,7 @@ export declare namespace IRow {
    * ![image](https://user-images.githubusercontent.com/8033320/78037317-55d4db80-73a6-11ea-833b-b8577d20cdcc.png)
    */
   export interface Description {
-    /** ### 설명 본문 .*/
+    /** ### 설명 본문 . */
     content: string;
 
     /**

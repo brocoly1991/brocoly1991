@@ -30,7 +30,5 @@ export declare namespace IIntroduce {
      * @default `package.json` 의 latestUpdatedAt 을 가져온다.
      */
     latestUpdated: string;
-
-
   }
 }

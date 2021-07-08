@@ -15,7 +15,6 @@ const backend: ISkill.Skill = {
       title: 'Node.js',
       // level: 1,
     },
-
   ],
 };
 
@@ -66,7 +65,7 @@ const etc: ISkill.Skill = {
 
 const skill: ISkill.Payload = {
   disable: false,
-  skills: [frontend,backend, database, etc],
+  skills: [frontend, backend, database, etc],
   tooltip: '1: 기초 수준\n2: 취미 개발 수준\n3: Production 개발 가능 수준',
 };
 

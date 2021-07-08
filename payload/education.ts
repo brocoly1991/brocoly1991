@@ -18,10 +18,10 @@ const education: IEducation.Payload = {
     },
     {
       title: '덕수고등학교',
-      subTitle: 'high school',  
+      subTitle: 'high school',
       startedAt: '2007-03',
       endedAt: '2010-02',
-    }
+    },
   ],
 };
 
