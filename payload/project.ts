@@ -1,7 +1,7 @@
 import { IProject } from '../component/project/IProject';
 
 const project: IProject.Payload = {
-  disable: false,
+  disable: true,
   list: [
     {
       title: 'Mashup API Development',

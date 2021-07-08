@@ -5,15 +5,49 @@ const presentation: IPresentation.Payload = {
 
   list: [
     {
-      title: 'Lorem ipsum',
-      subTitle: 'consectetur adipiscing elit',
-      at: '2017-10',
+      title: '카메라파이 스토어',
+      subTitle: '카메라파이 스토어 react',
+      at: '2021-07',
       descriptions: [
         {
-          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+          content: '카메라파이 스토어 사이트를 react 리뉴얼',
         },
         {
-          content: 'Slideshare:',
+          content: 'git : ',
+          postHref: 'https://www.slideshare.net//',
+        },
+      ],
+    },
+    {
+      title: 'YogiyoToyProjectReact',
+      subTitle: 'YogiyoToyProjectReact',
+      at: '2021-05',
+      descriptions: [
+        {
+          content: '요기요 사이트를 react로 구현',
+        },
+        {
+          content: 'react,redux,node,mongoDB',
+        },
+        {
+          content: 'git:',
+          postHref: 'https://www.slideshare.net//',
+        },
+      ],
+    },
+    {
+      title: 'YogiyoToyProjectSpring',
+      subTitle: 'YogiyoToyProjectSpring',
+      at: '2021-03',
+      descriptions: [
+        {
+          content: '요기요 사이트를 Spring로 구현',
+        },
+        {
+          content: 'srping,javaScript,jQuery,Oracle',
+        },
+        {
+          content: 'git:',
           postHref: 'https://www.slideshare.net//',
         },
       ],
