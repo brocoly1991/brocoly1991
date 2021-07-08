@@ -35,23 +35,6 @@ const presentation: IPresentation.Payload = {
         },
       ],
     },
-    {
-      title: 'YogiyoToyProjectSpring',
-      subTitle: 'YogiyoToyProjectSpring',
-      at: '2021-03',
-      descriptions: [
-        {
-          content: '요기요 사이트를 Spring로 구현',
-        },
-        {
-          content: 'srping,javaScript,jQuery,Oracle',
-        },
-        {
-          content: 'git:',
-          postHref: 'https://www.slideshare.net//',
-        },
-      ],
-    },
   ],
 };
 
