@@ -36,14 +36,14 @@ function Component({ payload }: PropsWithChildren<{ payload: Payload }>) {
           {payload.contents.map((content, index) => (
             <p key={index.toString()}>{content}</p>
           ))}
-          {/* <p className="text-right">
+          <p className="text-right">
             <small>Latest Updated</small>{' '}
             <Badge color="secondary">
               {`${latestUpdated.toFormat(
                 Util.LUXON_DATE_FORMAT.YYYY_DOT_LL_DOT_DD,
               )} (D+${latestUpdatedByNow})`}
             </Badge>
-          </p> */}
+          </p>
           {/* <p className="text-right" style={Style.sign}>
             {payload.sign}
           </p> */}
