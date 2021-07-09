@@ -1,4 +1,4 @@
-import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faPhone, faUser } from '@fortawesome/free-solid-svg-icons';
 import { faBell } from '@fortawesome/free-regular-svg-icons';
 import { faGithub, faYoutube } from '@fortawesome/free-brands-svg-icons';
 import image from '../asset/_sample.jpg';
@@ -14,6 +14,11 @@ const profile: IProfile.Payload = {
     small: '(park jung sun)',
   },
   contact: [
+    {
+      title: '1991년 04월 30일(만 30세)',
+      link: '#',
+      icon: faUser,
+    },
     {
       title: 'pjs19910430@gmail.com',
       link: '#',

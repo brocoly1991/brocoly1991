@@ -14,7 +14,7 @@ const presentation: IPresentation.Payload = {
         },
         {
           content: 'git : ',
-          postHref: 'https://www.slideshare.net//',
+          postHref: 'hthttps://github.com/brocoly1991/storeReact',
         },
       ],
     },
@@ -31,7 +31,7 @@ const presentation: IPresentation.Payload = {
         },
         {
           content: 'git:',
-          postHref: 'https://www.slideshare.net//',
+          postHref: 'https://github.com/brocoly1991/YogiyoToyProjectReact/',
         },
       ],
     },
