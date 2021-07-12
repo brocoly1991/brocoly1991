@@ -14,7 +14,7 @@ const presentation: IPresentation.Payload = {
         },
         {
           content: 'git : ',
-          postHref: 'hthttps://github.com/brocoly1991/storeReact',
+          postHref: 'https://github.com/brocoly1991/storeReact',
         },
       ],
     },
